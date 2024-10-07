@@ -33,7 +33,7 @@ Ensure that you have the following tools installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/realtime-cdc-streaming.git
+   git clone https://github.com/amiinaaa/realtime-cdc-streaming.git
    cd realtime-cdc-streaming
    ```
 
